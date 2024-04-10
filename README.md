@@ -4,7 +4,7 @@ BetterRest is an insightful iOS app built using SwiftUI that helps users find th
 
 <div style="display: flex; justify-content: space-between;">
     <img src="screenshots/BetterRest_1.png" alt="Better Rest Demo" width="270"/>
-    <img src="screenshots/BetterRest_2png" alt=" " width="270"/>
+    <img src="screenshots/BetterRest_2.png" alt=" " width="270"/>
     <img src="screenshots/BetterRest_3.png" alt=" " width="270"/>
 </div>
 
